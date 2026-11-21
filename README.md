@@ -58,3 +58,7 @@ You can use the `flags` field in `dune` files to enable them:
 ### SIMD support on ARM
 
 The SIMD compiler extension is not yet supported on ARM architectures.
+
+### Other dependencies
+
+The installation of OxCaml also depends on rsync.
